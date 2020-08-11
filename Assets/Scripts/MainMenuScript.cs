@@ -14,7 +14,6 @@ public class MainMenuScript : MonoBehaviour
 
     public void AboutButton()
     {
-        Debug.Log("Meu Pal No Seu Cu");
         SceneManager.LoadScene("AboutScene");
     }
 
