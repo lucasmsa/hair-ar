@@ -4,17 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class CanvasBehaviourScript : MonoBehaviour
-{
-    public List<Sprites>
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+{ 
+    // public List<Sprites>
+    
+    // public void DisplayHair(GameObject marker){
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    // }
 }
