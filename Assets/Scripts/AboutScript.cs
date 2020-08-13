@@ -9,6 +9,6 @@ public class AboutScript : MonoBehaviour
 {
     public void BackToMenu() 
     {
-        SceneManager.LoadScene("AppScene");
+        SceneManager.LoadScene("MainMenuScene");
     }
 }

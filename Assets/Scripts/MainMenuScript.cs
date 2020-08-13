@@ -9,12 +9,11 @@ public class MainMenuScript : MonoBehaviour
 {
     public void StartButton() 
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("AppScene");
     }
 
     public void AboutButton()
     {
-        Debug.Log("Meu Pal No Seu Cu");
         SceneManager.LoadScene("AboutScene");
     }
 
